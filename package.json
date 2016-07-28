@@ -56,7 +56,7 @@
         "ws": "0.8.1",
         "xml2js":"0.4.16",
         "node-red-node-feedparser":"0.1.*",
-        "node-red-node-email":"0.1.*",
+        "node-red-node-email":"https://github.com/edevregille/node-red-node-email.git",
         "node-red-node-twitter":"0.1.*",
         "node-red-node-rbe":"0.1.*"
     },
